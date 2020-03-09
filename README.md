@@ -1,2 +1,2 @@
 # Panda3DTemperance
-A preliminary version of the simulation of temperance using Python and Panda 3D.
+A simpler version of the simulation on temperance using Panda 3D for 3D graphics. Presented at a colloquium at the Institute of Advanced Study for Media Cultures of Computer Simulation (MECS), Leuphana Unviersität Lüneburg. 
